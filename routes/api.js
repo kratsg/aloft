@@ -42,7 +42,7 @@ router.get('/snippet', (req, res) => {
     try {
       const snippet = doc.data.substring(0, 200);
       send200(res, snippet);
-    } catch {
+    } catch(e) {
       res.send('');
     }
   });

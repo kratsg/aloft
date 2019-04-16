@@ -33,7 +33,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
     "react-scroll": "^1.7.10",
-    "react-sliding-pane": "file:../../sliding-pane",
+    "react-sliding-pane": "^3.1.0",
     "react-spinners": "^0.4.7",
     "reactstrap": "^6.5.0",
     "recompose": "^0.30.0",
@@ -45,7 +45,7 @@
     "save": "^2.3.2",
     "sharedb": "^0.11.37",
     "sharedb-generic-binding": "^0.1.0",
-    "sharedb-react-textbinding": "file:../../sharedb-react-textbinding",
+    "sharedb-react-textbinding": "git+ssh://git@github.com/stanographer/sharedb-react-textbinding.git",
     "sharedb-string-binding": "latest"
   },
   "scripts": {
